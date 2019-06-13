@@ -4,3 +4,4 @@ UFF - Universidade Federal Fluminense
 Cederj - Pólo SG
 Ingress: 2013-2
 Niteroi - Rio de Janeiro
+Formandoo em 2019-1
