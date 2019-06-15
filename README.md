@@ -1,5 +1,5 @@
 # Hello-World
-I'm a a Student of Technician Science of Compution trying to learn Github by myself
+I'm a a Student of Technician Science of Computattion trying to learn Github by myself
 UFF - Universidade Federal Fluminense
 Cederj - Pólo SG
 Ingress: 2013-2
