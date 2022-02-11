@@ -1,9 +1,7 @@
 # Hello-World
-I'm a a Student of Technician Science of Computation 
+I'm a a Technologist Science of Computation 
+Gradueted in 2019-1 by
 UFF - Universidade Federal Fluminense
-Cederj - Pólo SG
-Ingress: 2013-2
 Niteroi - Rio de Janeiro
-Gradueted em 2019-1
 Actually I'm studying Html, Css, javascript, nodejs, and reactjs to get a
-carreer transition from Safety lift Techinichian to DevOps
+carreer transition from Safety lift Technichian to DevOps
